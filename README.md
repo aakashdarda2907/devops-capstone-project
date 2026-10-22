@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/aakashdarda2907/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Capstone project for the IBM DevOps and Software Engineering Professional Certificate: a Flask accounts microservice with a REST API (create, read, update, delete, list), automated tests, CI with GitHub Actions, Docker, Kubernetes/OpenShift and a Tekton CD pipeline.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
